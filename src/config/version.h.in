@@ -1,11 +1,11 @@
 #define STR_HELPER(x) #x
 #define STR(x) STR_HELPER(x)
 
-#define PROJECT_NAME "TurtleCoin"
+#define PROJECT_NAME "imetacoin"
 #define PROJECT_SITE "http://www.turtlecoin.lol"
-#define PROJECT_COPYRIGHT "Copyright 2018-2020, The TurtleCoin Developers"
+#define PROJECT_COPYRIGHT "Copyright 2018-2020, The imeta Developers"
 #define APP_VER_MAJOR 0
-#define APP_VER_MINOR 28
+#define APP_VER_MINOR 2
 #define APP_VER_REV 3
 #define APP_VER_BUILD 1305
 
